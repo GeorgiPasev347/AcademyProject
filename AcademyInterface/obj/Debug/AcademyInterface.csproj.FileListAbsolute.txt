@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\bin\Debug\AcademyInterface.exe.config
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\bin\Debug\AcademyInterface.exe
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\bin\Debug\AcademyInterface.pdb
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyInterface.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyInterface.Form1.resources
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyInterface.Properties.Resources.resources
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyInterface.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyInterface.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyI.7A782B03.Up2Date
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyInterface.exe
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyInterface.pdb
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyInterface.Form2.resources
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyInterface.Form3.resources
+C:\Users\PC\Desktop\CS Projects\AcademyInterface\AcademyInterface\obj\Debug\AcademyInterface.Form4.resources

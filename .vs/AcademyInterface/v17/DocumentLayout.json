@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|c:\\users\\pc\\desktop\\cs projects\\academyinterface\\academyinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|solutionrelative:academyinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\academyinterface\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|solutionrelative:academyinterface\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\academyinterface\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|solutionrelative:academyinterface\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\academyinterface\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|solutionrelative:academyinterface\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\academyinterface\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|solutionrelative:academyinterface\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\academyinterface\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|solutionrelative:academyinterface\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\academyinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|solutionrelative:academyinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\academyinterface\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5908BADB-21F3-4C2A-BA72-85DE769A7F87}|AcademyInterface\\AcademyInterface.csproj|solutionrelative:academyinterface\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form2.cs",
+              "RelativeDocumentMoniker": "AcademyInterface\\Form2.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form2.cs",
+              "RelativeToolTip": "AcademyInterface\\Form2.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAhwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:44:02.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form1.cs",
+              "RelativeDocumentMoniker": "AcademyInterface\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form1.cs",
+              "RelativeToolTip": "AcademyInterface\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:38:57.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form2.cs",
+              "RelativeDocumentMoniker": "AcademyInterface\\Form2.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form2.cs [Design]",
+              "RelativeToolTip": "AcademyInterface\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:38:49.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form1.cs",
+              "RelativeDocumentMoniker": "AcademyInterface\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form1.cs [Design]",
+              "RelativeToolTip": "AcademyInterface\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:16:24.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form3.cs",
+              "RelativeDocumentMoniker": "AcademyInterface\\Form3.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form3.cs [Design]",
+              "RelativeToolTip": "AcademyInterface\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:45:51.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form3.cs",
+              "RelativeDocumentMoniker": "AcademyInterface\\Form3.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form3.cs",
+              "RelativeToolTip": "AcademyInterface\\Form3.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAApwDoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:48:32.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form4.cs",
+              "RelativeDocumentMoniker": "AcademyInterface\\Form4.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form4.cs [Design]",
+              "RelativeToolTip": "AcademyInterface\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:51:53.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form4.cs",
+              "RelativeDocumentMoniker": "AcademyInterface\\Form4.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\CS Projects\\AcademyInterface\\AcademyInterface\\Form4.cs",
+              "RelativeToolTip": "AcademyInterface\\Form4.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADwvzoAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:53:14.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
